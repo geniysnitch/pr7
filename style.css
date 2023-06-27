@@ -1,0 +1,22 @@
+.col-md-2{
+    font-size: 100px;
+    font-style: italic ;
+    color: bisque;
+    text-shadow: 2px 2px 4px #000000;
+}
+h2{
+    text-shadow: 2px 2px 4px #000000;
+}
+.card-body{
+    height: 200px;
+    background-color: bisque;
+}
+.card-img-top{
+    max-height: 200px;
+}
+.img-fluid{
+    margin-top: 55px;
+}
+.lexainternetdestroyer{
+    margin-top: 75px;
+}
